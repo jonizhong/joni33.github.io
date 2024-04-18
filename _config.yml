@@ -10,9 +10,9 @@
 locale                   : "en-US"
 title                    : "Dr. Joni Zhong"
 title_separator          : "-"
-name                     : &name "Dr. Joni Zhong"
-description              : &description "Cognitive Interactive Robots, HRI/HCI, Human-AI Interaction, Cognitive Science"
-url                      : https://joni33.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     :  "Dr. Joni Zhong"
+description              :  "Cognitive Interactive Robots, HRI/HCI, Human-AI Interaction, Cognitive Science"
+URL                      : "https://joni33.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "joni33.github.io"
 
@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Dr. Joni Zhong"
-  pronouns         : # example: "he/him"  
-  bio              : "a passionate researcher and educator in HRI/Human-AI Interaction"
+  pronouns         : "he/him"  
+  bio              : "A passionate researcher and educator in HRI, Human-centric AI and Cognitive Science"
   location         : "Hong Kong"
   employer         : "The Hong Kong Polytechnic University"
   uri              : # URL
